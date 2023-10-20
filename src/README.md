@@ -18,15 +18,15 @@ npm i @janhq/plugin-catalog
 
 ```js
 // javascript
-const plugin-catalog = require("@janhq/plugin-catalog");
+const pluginCatalog = require("@janhq/plugin-catalog");
 
 // typescript
-import * as plugin-catalog from "@janhq/plugin-catalog";
+import * as pluginCatalog from "@janhq/plugin-catalog";
 ```
 
 ```js
-const PLUGIN_CATALOG_URL = plugin-catalog.default;
+const plugins = pluginCatalog.default;
 
-console.log(PLUGIN_CATALOG_URL);
+console.log(plugins);
 
 ```
