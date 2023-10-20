@@ -1,6 +1,6 @@
 {
   "name": "@janhq/plugin-catalog",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Plugin catalogs for Jan",
   "main": "dist/index.js",
   "author": "@janhq",
