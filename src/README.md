@@ -30,3 +30,4 @@ const plugins = pluginCatalog.default;
 console.log(plugins);
 
 ```
+
