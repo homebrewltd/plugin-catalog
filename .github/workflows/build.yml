@@ -2,7 +2,7 @@ name: Publish plugin plugin-catalog Package to npmjs
 on:
   push:
     branches:
-      - main
+      - temp/publish-janframework
     paths:
       - ".github/workflows/build.yml"
       - "src/**"
